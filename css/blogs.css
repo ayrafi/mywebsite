@@ -1215,7 +1215,7 @@ input::-moz-focus-inner {
 .section-intro h1 {
 	font-family: 'Lemon/Milk light Regular';
 	font-size: 4.8rem;
-	letter-spacing: 0.8rem;
+	letter-spacing: 0.3rem;
 	line-height: 1.375;
 	color: #001331;
 }
@@ -1694,7 +1694,7 @@ header .header-logo a {
 .home-content-tablecell h1 {
 	font-family: 'Lemon/Milk light Regular';
 	font-size: 4.5rem;
-	letter-spacing: .8rem;
+	letter-spacing: .2rem;
 	line-height: 0.9;
 	color: #FFFFFF;
 }
