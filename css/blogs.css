@@ -32,9 +32,15 @@
  * ------------------------------------------------------------------- */
  @import url("font-awesome/css/font-awesome.min.css");
 @import url("windows10/windows10.css");
-@import url(//db.onlinewebfonts.com/c/67137b5f6928edc941186baaab5a664b?family=Lemon/Milk);
 
-@font-face {font-family: "Lemon/Milk"; src: url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.eot"); src: url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff") format("woff"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.svg#Lemon/Milk") format("svg"); }
+@font-face {
+font-family: 'Lemon/Milk';
+font-style: normal;
+font-weight: normal;
+src: local('Lemon/Milk Regular'), url('LemonMilk.woff') format('woff');
+}
+
+
 html {
 	font-size: 10px;
 }
@@ -94,11 +100,7 @@ a:focus {
 
 /* custom font */
 
-@font-face {
-	font-family: 'lemon milk';
-	src: url(fonts/lemonmilk/Milk.ttf);
-	font-style: normal;
-}
+
 
 
 h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
