@@ -41,6 +41,13 @@ font-weight: normal;
 src: local('Lemon/Milk Regular'), url('LemonMilk.woff') format('woff');
 }
 
+@font-face {
+font-family: 'Lemon/Milk light Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Lemon/Milk light Regular'), url('LemonMilklight.woff') format('woff');
+}
+
 
 html {
 	font-size: 10px;
