@@ -473,10 +473,7 @@ th:last-child, td:last-child {
 
 
 /* custom font*/
-@font-face {
-  font-family: 'lemon milk regcus';
-  src: url('fonts/lemonmilk/Milk.tff');
-}
+
 
 
 /* ===================================================================
@@ -1656,6 +1653,10 @@ header .header-logo a {
 	position: relative;
 }
 
+
+
+
+
 .home-content-tablecell {
 	display: table-cell;
 	vertical-align: bottom;
@@ -1680,7 +1681,7 @@ header .header-logo a {
 }
 
 .home-content-tablecell h1 {
-	font-family: 'lemon milk regcus';
+	font-family: 'Lemon Milk Regular';
 	font-size: 4.5rem;
 	letter-spacing: .19rem;
 	line-height: 0.9;
@@ -1689,7 +1690,7 @@ header .header-logo a {
 
 
 .home-content-tablecell h4 {
-	font-family: 'lemon milk regcus';
+	font-family: 'Lemon Milk Regular';
 	font-size: 2.0rem;
 	letter-spacing: .18rem;
 	line-height: 0.9;
