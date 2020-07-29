@@ -37,14 +37,14 @@
 font-family: 'Lemon/Milk Regular';
 font-style: normal;
 font-weight: normal;
-src: url('lemonmilkfonts/LemonMilk.woff') format('woff');
+src: url(lemonmilkfonts/LemonMilk.woff) format('woff');
 }
 
 @font-face {
 font-family: 'Lemon/Milk light Regular';
 font-style: normal;
 font-weight: normal;
-src: url('lemonmilkfonts/LemonMilklight.woff') format('woff');
+src: url(lemonmilkfonts/LemonMilklight.woff) format('woff');
 }
 
 
