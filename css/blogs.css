@@ -1,7 +1,5 @@
 /* =================================================================== 
- *
- *  Howdy v1.0 Main Stylesheet
- *  08-13-2016
+
  *  ------------------------------------------------------------------
  *
  *  TOC:
@@ -91,6 +89,16 @@ a:focus {
  *  03. typography & general theme styles - (_document-setup.scss) 
  *
  * ------------------------------------------------------------------- */
+
+/* custom font */
+
+@font-face {
+	font-family: 'lemon milk';
+	src: url(fonts/lemonmilk/Milk.ttf);
+	font-style: normal;
+}
+
+
 h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
 	font-family: 'Lemon Milk Regular';
 	color: #151515;
@@ -1464,7 +1472,7 @@ header .header-logo a {
 
 #menu-nav-wrap h3 {
 	color: white;
-	font-family: 'Lemon Milk Regular';
+	font-family: 'lemon milk';
 	font-size: 2rem;
 	line-height: 1.5;
 	margin-bottom: 1.5rem;
@@ -1681,7 +1689,7 @@ header .header-logo a {
 }
 
 .home-content-tablecell h1 {
-	font-family: 'Lemon Milk Regular';
+	font-family: 'lemon milk';
 	font-size: 4.5rem;
 	letter-spacing: .19rem;
 	line-height: 0.9;
@@ -1690,7 +1698,7 @@ header .header-logo a {
 
 
 .home-content-tablecell h4 {
-	font-family: 'Lemon Milk Regular';
+	font-family: 'lemon milk';
 	font-size: 2.0rem;
 	letter-spacing: .18rem;
 	line-height: 0.9;
