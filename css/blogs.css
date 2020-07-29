@@ -1213,15 +1213,15 @@ input::-moz-focus-inner {
 }
 
 .section-intro h1 {
-	font-family: 'Lemon/Milk light Regular';
+	font-family: 'Lemon/Milk Regular';
 	font-size: 4.8rem;
-	letter-spacing: 0.5rem;
+	letter-spacing: 1.0rem;
 	line-height: 1.375;
 	color: #001331;
 }
 
 .section-intro h3 {
-	font-family: 'Open Sans';
+	font-family: 'Lemon/Milk light Regular';
 	font-size: 2rem;
 	color: #a88661;
 	text-transform: uppercase;
