@@ -1673,8 +1673,14 @@ header .header-logo a {
 	margin-top: 2rem;
 }
 
+@font-face {
+	font-family: 'xyzz';
+	src: url('fonts/lemonmilk/Milk.ttf');
+	font-style: normal;
+  }
+
 .home-content-tablecell h1 {
-	font-family: 'Lemon Milk Regular';
+	font-family: 'xyzz';
 	font-size: 4.5rem;
 	letter-spacing: .19rem;
 	line-height: 0.9;
@@ -1683,14 +1689,12 @@ header .header-logo a {
 
 
 .home-content-tablecell h4 {
-	font-family: 'Lemon Milk Regular';
+	font-family: 'xyzz';
 	font-size: 2.0rem;
 	letter-spacing: .18rem;
 	line-height: 0.9;
 	color: #a38563;
 }
-
-
 
 .home-content-tablecell .home-section-links {
 	display: inline-block;
