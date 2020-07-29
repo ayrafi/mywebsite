@@ -33,19 +33,7 @@
  @import url("font-awesome/css/font-awesome.min.css");
 @import url("windows10/windows10.css");
 
-@font-face {
-font-family: 'Lemon/Milk Regular';
-font-style: normal;
-font-weight: normal;
-src: url(lemonmilkfonts/LemonMilk.woff) format('woff');
-}
 
-@font-face {
-font-family: 'Lemon/Milk light Regular';
-font-style: normal;
-font-weight: normal;
-src: url(lemonmilkfonts/LemonMilklight.woff) format('woff');
-}
 
 
 html {
