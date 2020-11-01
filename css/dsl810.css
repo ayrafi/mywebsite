@@ -1612,7 +1612,7 @@ header .header-logo a {
 	background: #060e1b;
 	width: 100%;
 	height: 100%;
-	background-image: url(../images/dsl810-bg.png);
+	background-image: url(../images/dsl810-bg.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
@@ -1818,7 +1818,7 @@ header .header-logo a {
 
 	#home {
 		
-		background-image: url(../images/dsl810-bg.png);
+		background-image: url(../images/dsl810-bg.jpg);
 	}
 		
 	
@@ -1893,7 +1893,7 @@ header .header-logo a {
 @media only screen and (max-width:600px) {
 	#home {
 		min-height: 702px;
-		background-image: url(../images/dsl810-bg-mob.png);
+		background-image: url(../images/dsl810-bg-mob.jpg);
 	}
 		
 	
@@ -1946,7 +1946,7 @@ header .header-logo a {
 
 	#home {
 		
-		background-image: url(../images/dsl810-bg-mob.png);
+		background-image: url(../images/dsl810-bg-mob.jpg);
 	}
 
 	.home-content-tablecell .home-bottom-text {
@@ -1980,7 +1980,7 @@ header .header-logo a {
 @media only screen and (max-width:400px) {
 	#home {
 		min-height: 654px;
-		background-image: url(../images/dsl810-bg-mob.png);
+		background-image: url(../images/dsl810-bg-mob.jpg);
 	}
 
 	.home-content-tablecell .home-bottom-text {
