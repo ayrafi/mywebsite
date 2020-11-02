@@ -1,8 +1,5 @@
 /* =================================================================== 
- *
- *  Howdy v1.0 Main Stylesheet
- *  08-13-2016
- *  ------------------------------------------------------------------
+* -------------------------------------------
  *
  *  TOC:
  *  01. webfonts and iconfonts
@@ -34,6 +31,20 @@
  * ------------------------------------------------------------------- */
  @import url("font-awesome/css/font-awesome.min.css");
 @import url("windows10/windows10.css");
+
+@import url("lemonmilkfonts/style.css");
+@font-face {
+font-family: 'Lemon/Milk Regular';
+font-style: normal;
+font-weight: normal;
+src: url('css/lemonmilkfonts/LemonMilk.woff') format('woff');
+}
+@font-face {
+font-family: 'Lemon/Milk light Regular';
+font-style: normal;
+font-weight: normal;
+src: url('css/lemonmilkfonts/LemonMilklight.woff') format('woff');
+}
 
 html {
 	font-size: 10px;
