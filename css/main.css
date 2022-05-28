@@ -77,7 +77,7 @@ body {
 
 body {
 	background: #050505;
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-size: 1.6rem;
 	line-height: 3rem;
 	color: #353535;
@@ -169,7 +169,7 @@ p img {
 }
 
 p.lead {
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-size: 1.8rem;
 	line-height: 1.6;
 	color: #4f4f4f;
@@ -213,14 +213,14 @@ blockquote:before {
 	line-height: 0px;
 	margin: 0;
 	color: rgba(0, 0, 0, 0.3);
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	position: absolute;
 	top: 3.6rem;
 	left: 0;
 }
 
 blockquote p {
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-style: italic;
 	padding: 0;
 	font-size: 1.9rem;
@@ -245,7 +245,7 @@ blockquote cite a:visited {
 }
 
 abbr {
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-variant: small-caps;
 	text-transform: lowercase;
 	letter-spacing: .05rem;
@@ -253,7 +253,7 @@ abbr {
 }
 
 var, kbd, samp, code, pre {
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 }
 
 pre {
@@ -435,7 +435,7 @@ table {
 	border-width: 0;
 	width: 100%;
 	max-width: 100%;
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 }
 
 th, td {
@@ -584,7 +584,7 @@ select {
 	outline: none;
 	vertical-align: middle;
 	color: #313131;
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-size: 1.5rem;
 	line-height: 3rem;
 	max-width: 100%;
@@ -626,7 +626,7 @@ select {
 
 .ss-custom-select::after {
 	content: '\f0d7';
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	position: absolute;
 	top: 50%;
 	right: 1.5rem;
@@ -665,7 +665,7 @@ select:focus {
 
 label,
 legend {
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-size: 1.4rem;
 	margin-bottom: .6rem;
 	color: #020202;
@@ -911,7 +911,7 @@ input::-moz-focus-inner {
 	margin: 0;
 	padding: 1.5rem .6rem 0 0;
 	font-size: 8.4rem;
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	line-height: 6rem;
 	text-indent: 0;
 	background: transparent;
@@ -988,7 +988,7 @@ input::-moz-focus-inner {
 	height: 1em;
 	position: absolute;
 	font-size: 10rem;
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	color: rgba(0, 0, 0, 0.3);
 }
 
@@ -1084,7 +1084,7 @@ input::-moz-focus-inner {
 	position: absolute;
 	left: 0;
 	top: -3rem;
-	font-family: 'Open Sans'; 
+	font-family: 'Roboto'; 
 	color: #313131;
 	text-transform: uppercase;
 	letter-spacing: .2rem;
@@ -1222,7 +1222,7 @@ input::-moz-focus-inner {
 }
 
 .section-intro h3 {
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-size: 2rem;
 	color: #a88661;
 	text-transform: uppercase;
@@ -1613,7 +1613,7 @@ header .header-logo a {
 /*side menu stuff*/
 
 .acknowledge h6{
-	font-family: 'Open Sans Light';
+	font-family: 'Roboto Light';
 	line-height: 0.8rem;
 	font-size: 0.8rem;
 	color: #8a7155;
@@ -1681,7 +1681,7 @@ header .header-logo a {
 }
 
 .home-content-tablecell h3 {
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-size: 2.2rem;
 	line-height: 3.5rem;
 	color: #a385637c;
@@ -1717,7 +1717,7 @@ header .header-logo a {
 
 .home-content-tablecell .home-section-links li {
 	display: inline-block;
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-size: 1.4rem;
 	text-transform: uppercase;
 	letter-spacing: .1rem;
@@ -2766,13 +2766,13 @@ header .header-logo a {
 
 .lg-sub-html h4 {
 	color: #FFFFFF;
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-size: 1.5rem;
 	line-height: 1.333;
 }
 
 .lg-sub-html p {
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-style: italic;
 	font-size: 1.4rem;
 	line-height: 1.6rem;
@@ -2790,7 +2790,7 @@ header .header-logo a {
 }
 
 #lg-counter {
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 }
 
 /* ------------------------------------------------------------------- 
@@ -2958,7 +2958,7 @@ header .header-logo a {
 
 .contact-info p {
 	color: #949494;
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 }
 
 .contact-info .collapse {
@@ -3056,7 +3056,7 @@ footer {
 	padding-top: 4.2rem;
 	padding-bottom: 4.2rem;
 	text-align: center;
-	font-family: 'Open Sans';
+	font-family: 'Roboto';
 	font-size: 1.6rem;
 	position: relative;
 }
