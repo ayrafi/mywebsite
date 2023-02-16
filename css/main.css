@@ -1,5 +1,4 @@
 /* =================================================================== 
-
  *
  *  TOC:
  *  01. webfonts and iconfonts
@@ -23,8 +22,6 @@
 
 
 /* ===================================================================
-
-
 /* ===================================================================
  *  02. base style overrides - (_document-setup)
  *
@@ -50,9 +47,6 @@ src: url('css/lemonmilkfonts/LemonMilklight.woff') format('woff');
 }
 
 
-	
-	
-	
 
 html {
 	font-size: 10px;
@@ -216,7 +210,7 @@ blockquote:before {
 	line-height: 0px;
 	margin: 0;
 	color: rgba(0, 0, 0, 0.3);
-	font-family: 'Montserrat Regular';
+	font-family: 'Roboto';
 	position: absolute;
 	top: 3.6rem;
 	left: 0;
@@ -255,7 +249,7 @@ abbr {
 }
 
 var, kbd, samp, code, pre {
-	font-family: 'Montserrat Regular';
+	font-family: 'Roboto';
 }
 
 pre {
@@ -437,7 +431,7 @@ table {
 	border-width: 0;
 	width: 100%;
 	max-width: 100%;
-	font-family: 'Montserrat Regular';
+	font-family: 'Roboto';
 }
 
 th, td {
@@ -447,7 +441,7 @@ th, td {
 }
 th {
 	color: #151515;
-	font-family: "Montserrat Regular", sans-serif;
+	font-family: "montserrat-bold", sans-serif;
 }
 td {
 	line-height: 1.5;
@@ -1224,7 +1218,7 @@ input::-moz-focus-inner {
 }
 
 .section-intro h3 {
-	font-family: 'Montserrat Regular';
+	font-family: 'Roboto';
 	font-size: 2rem;
 	color: #a88661;
 	text-transform: uppercase;
@@ -1615,7 +1609,7 @@ header .header-logo a {
 /*side menu stuff*/
 
 .acknowledge h6{
-	font-family: 'Montserrat Regular';
+	font-family: 'Roboto Light';
 	line-height: 0.8rem;
 	font-size: 0.8rem;
 	color: #8a7155;
@@ -2768,13 +2762,14 @@ header .header-logo a {
 
 .lg-sub-html h4 {
 	color: #FFFFFF;
-	font-family: 'Montserrat Regular';
+	font-family: 'Roboto';
 	font-size: 1.5rem;
 	line-height: 1.333;
 }
 
 .lg-sub-html p {
-	font-family: 'Montserrat Regular';
+	font-family: 'Roboto';
+	font-style: italic;
 	font-size: 1.4rem;
 	line-height: 1.6rem;
 	margin: .6rem 0 0;
@@ -2791,7 +2786,7 @@ header .header-logo a {
 }
 
 #lg-counter {
-	font-family: 'Montserrat Regular';
+	font-family: 'Roboto';
 }
 
 /* ------------------------------------------------------------------- 
@@ -2951,7 +2946,7 @@ header .header-logo a {
 
 .contact-info {
 	margin: 4.8rem auto 0;
-	font-family: "Montserrat Regular",
+	font-family: "montserrat-regular", sans-serif;
 	font-size: 1.6rem;
 	text-align: center;
 	position: relative;
@@ -2959,7 +2954,7 @@ header .header-logo a {
 
 .contact-info p {
 	color: #949494;
-	font-family: 'Montserrat Regular';
+	font-family: 'Roboto';
 }
 
 .contact-info .collapse {
@@ -3057,7 +3052,7 @@ footer {
 	padding-top: 4.2rem;
 	padding-bottom: 4.2rem;
 	text-align: center;
-	font-family: 'Montserrat Regular';
+	font-family: 'Roboto';
 	font-size: 1.6rem;
 	position: relative;
 }
