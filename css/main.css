@@ -1,8 +1,5 @@
 /* =================================================================== 
- *
- *  Howdy v1.0 Main Stylesheet
- *  08-13-2016
- *  ------------------------------------------------------------------
+
  *
  *  TOC:
  *  01. webfonts and iconfonts
@@ -35,7 +32,10 @@
  @import url("font-awesome/css/font-awesome.min.css");
 @import url("windows10/windows10.css");
 
-@import url("lemonmilkfonts/style.css");	
+@import url("lemonmilkfonts/style.css");
+@import url("montserrat/style.css");	
+
+
 @font-face {	
 font-family: 'Lemon/Milk Regular';	
 font-style: normal;	
@@ -77,7 +77,7 @@ body {
 
 body {
 	background: #050505;
-	font-family: 'Roboto';
+	font-family: 'Montserrat Regular';
 	font-size: 1.6rem;
 	line-height: 3rem;
 	color: #353535;
@@ -169,7 +169,7 @@ p img {
 }
 
 p.lead {
-	font-family: 'Roboto';
+	font-family: 'Montserrat Regular';
 	font-size: 1.8rem;
 	line-height: 1.6;
 	color: #4f4f4f;
@@ -190,7 +190,7 @@ em, i, strong, b {
 	font-weight: normal;
 }
 em, i {
-	font-family: "Roboto";
+	font-family: "Montserrat Regular";
 }
 strong, b {
 	font-family: 'Lemon/Milk light Regular';
@@ -220,8 +220,7 @@ blockquote:before {
 }
 
 blockquote p {
-	font-family: 'Roboto';
-	font-style: italic;
+	font-family: 'Montserrat Regular';
 	padding: 0;
 	font-size: 1.9rem;
 	line-height: 1.895;
@@ -245,7 +244,7 @@ blockquote cite a:visited {
 }
 
 abbr {
-	font-family: 'Roboto';
+	font-family: 'Montserrat Regular';
 	font-variant: small-caps;
 	text-transform: lowercase;
 	letter-spacing: .05rem;
