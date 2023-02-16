@@ -77,7 +77,7 @@ body {
 
 body {
 	background: #050505;
-	font-family: 'Montserrat Regular';
+	font-family: 'Montserrat Light';
 	font-size: 1.6rem;
 	line-height: 3rem;
 	color: #353535;
@@ -169,7 +169,7 @@ p img {
 }
 
 p.lead {
-	font-family: 'Montserrat Regular';
+	font-family: 'Montserrat Light';
 	font-size: 1.8rem;
 	line-height: 1.6;
 	color: #4f4f4f;
@@ -190,7 +190,7 @@ em, i, strong, b {
 	font-weight: normal;
 }
 em, i {
-	font-family: "Montserrat Regular";
+	font-family: "Montserrat Light";
 }
 strong, b {
 	font-family: 'Lemon/Milk light Regular';
@@ -220,7 +220,7 @@ blockquote:before {
 }
 
 blockquote p {
-	font-family: 'Montserrat Regular';
+	font-family: 'Montserrat Light';
 	padding: 0;
 	font-size: 1.9rem;
 	line-height: 1.895;
@@ -244,7 +244,7 @@ blockquote cite a:visited {
 }
 
 abbr {
-	font-family: 'Montserrat Regular';
+	font-family: 'Montserrat Light';
 	font-variant: small-caps;
 	text-transform: lowercase;
 	letter-spacing: .05rem;
@@ -434,7 +434,7 @@ table {
 	border-width: 0;
 	width: 100%;
 	max-width: 100%;
-	font-family: 'Roboto';
+	font-family: 'Montserrat Regular';
 }
 
 th, td {
@@ -444,7 +444,7 @@ th, td {
 }
 th {
 	color: #151515;
-	font-family: "montserrat-bold", sans-serif;
+	font-family: "Montserrat Light", sans-serif;
 }
 td {
 	line-height: 1.5;
