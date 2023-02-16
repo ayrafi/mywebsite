@@ -94,19 +94,7 @@ font-weight: normal;
 src: local('Montserrat Regular'), url('montserrat-regular-webfont.woff') format('woff');
 }
 
-@font-face {
-font-family: 'Montserrat Light';
-font-style: normal;
-font-weight: normal;
-src: local('Montserrat Light'), url('Montserrat-Italic.ttf') format('ttf');
-}
 
-@font-face {
-font-family: 'Montserrat Light Italic';
-font-style: normal;
-font-weight: normal;
-src: local('Montserrat Light Italic'), url('Montserrat-LightItalic.ttf') format('ttf');
-}
 
 @font-face {
 font-family: 'Montserrat Medium';
@@ -150,7 +138,7 @@ body {
 
 body {
 	background: #050505;
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 	font-size: 1.6rem;
 	line-height: 3rem;
 	color: #353535;
@@ -242,7 +230,7 @@ p img {
 }
 
 p.lead {
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 	font-size: 1.8rem;
 	line-height: 1.6;
 	color: #4f4f4f;
@@ -263,7 +251,7 @@ em, i, strong, b {
 	font-weight: normal;
 }
 em, i {
-	font-family: "Montserrat Light";
+	font-family: "Montserrat Regular";
 }
 strong, b {
 	font-family: 'Lemon/Milk light Regular';
@@ -293,7 +281,7 @@ blockquote:before {
 }
 
 blockquote p {
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 	padding: 0;
 	font-size: 1.9rem;
 	line-height: 1.895;
@@ -317,7 +305,7 @@ blockquote cite a:visited {
 }
 
 abbr {
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 	font-variant: small-caps;
 	text-transform: lowercase;
 	letter-spacing: .05rem;
@@ -325,7 +313,7 @@ abbr {
 }
 
 var, kbd, samp, code, pre {
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 }
 
 pre {
@@ -517,7 +505,7 @@ th, td {
 }
 th {
 	color: #151515;
-	font-family: "Montserrat Light", sans-serif;
+	font-family: "Montserrat Regular", sans-serif;
 }
 td {
 	line-height: 1.5;
@@ -1294,7 +1282,7 @@ input::-moz-focus-inner {
 }
 
 .section-intro h3 {
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 	font-size: 2rem;
 	color: #a88661;
 	text-transform: uppercase;
@@ -1685,7 +1673,7 @@ header .header-logo a {
 /*side menu stuff*/
 
 .acknowledge h6{
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 	line-height: 0.8rem;
 	font-size: 0.8rem;
 	color: #8a7155;
@@ -2844,7 +2832,7 @@ header .header-logo a {
 }
 
 .lg-sub-html p {
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 	font-size: 1.4rem;
 	line-height: 1.6rem;
 	margin: .6rem 0 0;
@@ -2861,7 +2849,7 @@ header .header-logo a {
 }
 
 #lg-counter {
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 }
 
 /* ------------------------------------------------------------------- 
@@ -3021,7 +3009,7 @@ header .header-logo a {
 
 .contact-info {
 	margin: 4.8rem auto 0;
-	font-family: "Montserrat Light",
+	font-family: "Montserrat Regular",
 	font-size: 1.6rem;
 	text-align: center;
 	position: relative;
@@ -3029,7 +3017,7 @@ header .header-logo a {
 
 .contact-info p {
 	color: #949494;
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 }
 
 .contact-info .collapse {
@@ -3127,7 +3115,7 @@ footer {
 	padding-top: 4.2rem;
 	padding-bottom: 4.2rem;
 	text-align: center;
-	font-family: 'Montserrat Light';
+	font-family: 'Montserrat Regular';
 	font-size: 1.6rem;
 	position: relative;
 }
